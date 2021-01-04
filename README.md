@@ -15,6 +15,9 @@ Plant-it is a garden planner, discussion forum, and plant information center. Th
 * [Questions](#Questions)
 ## Installation
 For the development environment to be ready, please use node.js and run npm install for all of the dependencies. Also, you will need to run the plantit-server application, which may be found at [Plantit-Server](https://github.com/GnuArtemis/Plantit-Server), with npm install as well.
+
+You can visit the site at https://plantit-site.herokuapp.com/.
+
 ## Usage 
 Please click on the video walkthrough provided to explore this application. 
 
@@ -39,14 +42,11 @@ The above copyright notice and this permission notice shall be included in all c
         
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Contributing
-For contribution ideas please reach out to Matt through his Github profile below.
+
 ## Tests
 There are no tests at this time.
 ## Questions
 For any questions please find us on GitHub: 
-
-[gitHub profile](https://github.com/webermg)
 
 
 ![Plantit-frontend](https://img.shields.io/static/v1?label=Plantit-frontend&message=plant-it!&color=brightgreen)
